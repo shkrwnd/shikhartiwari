@@ -1,4 +1,4 @@
-# shikhartiwari
+# Shikhar Tiwari
 
 👋 Hi, I’m Shikhar – a software engineer, researcher, and startup founder passionate about building AI-driven systems that solve real-world problems.
 
